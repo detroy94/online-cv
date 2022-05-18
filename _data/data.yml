@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alba Dober
-    tagline: Full Stack Software Engineer
+    name: Ali Ibrahim
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -41,10 +41,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Creative computer science professional with 1.6 years experience with a strong foundation in math,
-      logic, and cross-platform coding. Seeking to leverage solid skills in collaboration, communication, 
-      and development as a programmer for your organization. 
-      Passionate about data science with working experience in natural language processing and embedded systems.
+   Motivated IT engineer seeks new position in dynamic, growth-oriented company focused on cultivating exceptional customer experience
+   and a positive work environment. Experienced in handling networking concerns, implementing new software, installing new hardware, and addressing user concerns,
+   I bring attention to detail and a dedication to technical improvement to each job.
+   Passionate about innnovative health solutions with working experience in developing solutions from participation in hackathons.
 education:
     - degree: BSc in Computer Science
       university: University of Nairobi
