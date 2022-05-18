@@ -84,6 +84,37 @@ experiences:
         Worked in a small team environment that included a variety of engineering disciplines.
           - Worked on designing, developing, implementing and testing embedded software in support of avionics sensor functions.
           - Designed and developed custom pcb circuits for integration into commercial modules.
+          
+       
+       
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: SysOps Maintenance
+        level: 98%
+
+      - name: IS tracking & Maintenance
+        level: 98%
+
+      - name: Communication
+        level: 98%
+
+      - name: Linux & Windows
+        level: 95%
+
+      - name: Capacity building
+        level: 85%
+
+      - name: Teamwork
+        level: 70%
+        
+       - name: Problem Solving
+        level: 85%
+        
+       
+        
+        
 projects:
     title: Referees
     intro: >
