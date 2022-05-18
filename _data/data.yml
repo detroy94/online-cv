@@ -134,6 +134,19 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-
+        
+   Referees:
+    - degree: Dr. Samuel Ruhiu
+      university: University of Nairobi
+      time: 2016 - 2021
+      details: |
+        Courses covered included Knowledge discovery and Data mining,Information Systems 
+        Control and audit,Networking and Object Oriented programming.
+    - degree: diploma in Computer Science
+      university: University of Nairobi
+      time: 2016 - 2018
+      details: |
+        Courses covered included system analysis and design,Artificial intelligence,
+        web programming and computer ethics. 
 footer: >
    
