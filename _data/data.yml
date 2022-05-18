@@ -62,24 +62,20 @@ education:
 experiences:
     - role: IT Support Technician
       time: 2017 - 2018
-      company: Maker Space FabLab
+      company: Maker Space FabLab, Nairobi
       details: |
         Delivered troubleshooting solutions to departments and console operators experiencing difficulties with software, hardware, and network connectivity.
            - I was delegated with implementing improved assessment and analytical techniques responsibility for achievement of identified laboratory goals.
            - Provided on-phone and online support for users of extended lab communication network to facilitate effective operation of IT resources.
            - Assisted in implementation of new hardware and software solutions within company to improve workflow and customer service provision.
            - Provided support to users learning new technology assets to support existing operations and to make possible workflow expansion.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Junior Software Engineer
+      time: 2017 - 2019
+      company: Maker Space FabLab,Nairobi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Took help ticket jobs assigned by IT supervisor and recorded ticket results for reporting and record-keeping.
+          - Assisted users with implementing new software and network infrastructure to ease transition to new technology assets and planned operations.
+          - Supported senior technicians with complex tasks and time-sensitive achievements to meet client expectations and user needs on an identified schedule
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
