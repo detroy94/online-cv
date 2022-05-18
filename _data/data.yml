@@ -87,7 +87,33 @@ experiences:
           
        
        
+skills:
+    title: Skills &amp; Proficiency
 
+    toolset:
+      - name: SysOps Maintenance
+        level: 98%
+
+      - name: IS tracking & Maintenance
+        level: 98%
+
+      - name: Communication
+        level: 98%
+
+      - name: Linux & Windows
+        level: 95%
+
+      - name: Capacity building
+        level: 85%
+
+      - name: Teamwork
+        level: 80%
+        
+      - name: Problem Solving
+        level: 87%
+        
+      - name: Critical Thinking
+        level: 80%
        
         
         
@@ -116,33 +142,7 @@ projects:
 
 
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: SysOps Maintenance
-        level: 98%
-
-      - name: IS tracking & Maintenance
-        level: 98%
-
-      - name: Communication
-        level: 98%
-
-      - name: Linux & Windows
-        level: 95%
-
-      - name: Capacity building
-        level: 85%
-
-      - name: Teamwork
-        level: 80%
-        
-      - name: Problem Solving
-        level: 87%
-        
-      - name: Critical Thinking
-        level: 80%
         
        
       
