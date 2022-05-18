@@ -85,15 +85,13 @@ experiences:
           - Worked on designing, developing, implementing and testing embedded software in support of avionics sensor functions.
           - Designed and developed custom pcb circuits for integration into commercial modules.
 projects:
-    title: Projects
+    title: Referees
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below are my professional referees:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Dr. Samuel Ruhiu
+        link: "samruhiu@uonbi.ac.ke"
+        tagline: "Senior Lecturer - School of Computing and Informatics, UoN"
 
       - title: DevStudio
         link: "#"
