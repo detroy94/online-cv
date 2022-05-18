@@ -77,17 +77,13 @@ experiences:
           - Assisted users with implementing new software and network infrastructure to ease transition to new technology assets and planned operations.
           - Worked closely with IT team members and supervisors to improve troubleshooting skills and situation analysis.
           - Supported senior technicians with complex tasks and time-sensitive achievements to meet client expectations and user needs on an identified schedule
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Contractual Embedded systems developer
+      time: 2020 - 2021
+      company: Kenya Airforce Research and development, Embakasi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Worked in a small team environment that included a variety of engineering disciplines.
+          - Worked on designing, developing, implementing and testing embedded software in support of avionics sensor functions.
+          - Designed and developed custom pcb circuits for integration into commercial modules.
 projects:
     title: Projects
     intro: >
