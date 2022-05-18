@@ -91,23 +91,21 @@ projects:
     assignments:
       - title: Dr. Samuel Ruhiu
         link: "https://profiles.uonbi.ac.ke/samruhiu"
-        tagline: "Senior Lecturer - School of Computing and Informatics, UoN"
+        tagline: "Senior Lecturer - UoN School of Computing and Informatics. 0727791212"
 
-      - title: DevStudio
+      - title: Fred Mutungi
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Procurement Manager. 0724153131"
 
-      - title: Tempo
+      - title: Mohammed Rashid
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Aeronautical Engineer - Kenya Army.0724153131"
 
-      - title: Atom
+      - title: Martin Musili
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Electrical and Instruments Engineer - 0704733169"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      
 
 
 
@@ -115,23 +113,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: SysOps Maintenance
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: IS tracking & Maintenance
         level: 98%
 
-      - name: Angular
+      - name: Communication
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Linux & Windows
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Capacity building
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Teamwork
+        level: 70%
         
        
       
