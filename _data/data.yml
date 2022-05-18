@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ali Ibrahim
-    tagline: Software Engineer
+    tagline: IT Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -67,6 +67,8 @@ experiences:
         Delivered troubleshooting solutions to departments and console operators experiencing difficulties with software, hardware, and network connectivity.
            - I was delegated with implementing improved assessment and analytical techniques responsibility for achievement of identified laboratory goals.
            - Provided on-phone and online support for users of extended lab communication network to facilitate effective operation of IT resources.
+           - Assisted in implementation of new hardware and software solutions within company to improve workflow and customer service provision.
+           - Provided support to users learning new technology assets to support existing operations and to make possible workflow expansion.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
