@@ -87,6 +87,33 @@ experiences:
           
        
        
+
+        
+projects:
+    title: Referees
+    intro: >
+      Below are my professional referees:
+    assignments:
+      - title: Dr. Samuel Ruhiu
+        link: "https://profiles.uonbi.ac.ke/samruhiu"
+        tagline: "UoN School of Computing and Informatics. 0727791212"
+
+      - title: Fred Mutungi
+        link: "https://www.linkedin.com/in/fredrick-mutungi-75848b25"
+        tagline: "Procurement Manager, DKT International. 0724153131"
+
+      - title: Mohammed Rashid
+        link: "#"
+        tagline: "Aeronautical Engineer - Kenya Army. 0724153131"
+
+      - title: Martin Musili
+        link: "#"
+        tagline: "Electrical and Instruments Engineer. 0704733169"
+
+      
+
+
+
 skills:
     title: Skills &amp; Proficiency
 
@@ -116,33 +143,6 @@ skills:
         level: 80%
        
         
-        
-projects:
-    title: Referees
-    intro: >
-      Below are my professional referees:
-    assignments:
-      - title: Dr. Samuel Ruhiu
-        link: "https://profiles.uonbi.ac.ke/samruhiu"
-        tagline: "UoN School of Computing and Informatics. 0727791212"
-
-      - title: Fred Mutungi
-        link: "https://www.linkedin.com/in/fredrick-mutungi-75848b25"
-        tagline: "Procurement Manager, DKT International. 0724153131"
-
-      - title: Mohammed Rashid
-        link: "#"
-        tagline: "Aeronautical Engineer - Kenya Army. 0724153131"
-
-      - title: Martin Musili
-        link: "#"
-        tagline: "Electrical and Instruments Engineer. 0704733169"
-
-      
-
-
-
-
         
        
       
