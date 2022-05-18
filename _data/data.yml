@@ -13,10 +13,10 @@ sidebar:
 
     # Sidebar links
     email: alibra71@gmail.com
-    phone: 0706108129
-    linkedin: ali-ibrahim-7138328b
-    github: detroy94
-    stack-overflow: 10574147/a-ibrahim
+    phone: +254706108129
+    linkedin: aliibrahim7138328b
+    github: @detroy94
+    stack-overflow: id10574147/a-ibrahim
   
     languages:
       - idiom: English
@@ -30,7 +30,7 @@ sidebar:
 
     interests:
       - item: Calisthenics
-        link: "https://www.webmd.com/fitness-exercise/benefits-calisthenics"
+        link: 
 
       - item: Soccer
         link:
@@ -97,11 +97,11 @@ projects:
       Below are my professional referees:
     assignments:
       - title: Dr. Samuel Ruhiu
-        link: "https://profiles.uonbi.ac.ke/samruhiu"
+        link: 
         tagline: "UoN School of Computing and Informatics. 0727791212"
 
       - title: Fred Mutungi
-        link: "https://www.linkedin.com/in/fredrick-mutungi-75848b25"
+        link:
         tagline: "Procurement Manager, DKT International. 0724153131"
 
       - title: Mohammed Rashid
