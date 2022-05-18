@@ -136,7 +136,13 @@ skills:
         level: 85%
 
       - name: Teamwork
-        level: 70%
+        level: 80%
+        
+      - name: Problem Solving
+        level: 87%
+        
+      - name: Critical Thinking
+        level: 80%
         
        
       
