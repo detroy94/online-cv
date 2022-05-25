@@ -92,7 +92,7 @@ experiences:
 
       
 projects:
-    title: Programming languages and Tool
+    title: Tools
     intro: >
       
     assignments:
@@ -104,9 +104,22 @@ projects:
         link:
         tagline: ""
 
-      - title: NMAP
+      - title: Git
         link: "#"
-        tagline: "Network diagnostics"
+        tagline: "Git, Jenkins CI/CD pipeline delivery"
+        
+      - title: DevOps
+        link: "#"
+        tagline: "Artifactory, Docker, GitHub, Maven"
+        
+       - title: Monitoring tools
+        link: "#"
+        tagline: "Prometheus, Kibana, Fluentd"
+        
+        
+      - title: AWS tools
+        link: "#"
+        tagline: "EC2, S3 and ELB"
 
     
 
@@ -122,23 +135,26 @@ skills:
       - name: IS tracking & Maintenance
         level: 98%
 
-      - name: Communication
+      - name: Docker
         level: 98%
 
       - name: Linux & Windows
         level: 95%
 
-      - name: Capacity building
-        level: 85%
+      - name: Kubernetes
+        level: 70%
 
-      - name: Teamwork
+      - name: Kafka
         level: 80%
         
-      - name: Problem Solving
-        level: 87%
+      - name: Hadoop
+        level: 78%
         
-      - name: Critical Thinking
-        level: 80%
+      - name: Team player
+        level: 85%
+        
+       - name: Communication
+        level: 85%
        
         
         
