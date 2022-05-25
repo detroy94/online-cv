@@ -92,8 +92,8 @@ experiences:
 
       
 projects:
-title: Tools
-intro: >
+    title: Tools
+    intro: >
       
     assignments:
     - title: Python
@@ -112,14 +112,7 @@ intro: >
         link: "#"
         tagline: "Artifactory, Docker, GitHub, Maven"
         
-       - title: Monitoring tools
-        link: "#"
-        tagline: "Prometheus, Kibana, Fluentd"
-        
-        
-      - title: AWS tools
-        link: "#"
-        tagline: "EC2, S3 and ELB"
+    
 
     
 
