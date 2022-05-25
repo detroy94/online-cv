@@ -97,7 +97,7 @@ projects:
     assignments:
       - title: Python
         link: "#"
-        tagline: "Pyplots,Scikit,ARIMA Machine Learning"
+        tagline: "Pyplots,Scikit,ARIMA Machine Learning,FB Prophet"
 
       - title: Databases
         link:
@@ -123,6 +123,11 @@ projects:
       - title: Hadoop
         link: "#"
         tagline: "Artifactory, Docker, GitHub, Maven"
+        
+      - title: AWS
+        link: "#"
+        tagline: "EC2, S3, RDS, ECS, Elastic Load Balancer, Auto Scaling groups"
+        
         
         
     
