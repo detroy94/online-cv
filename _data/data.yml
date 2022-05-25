@@ -97,8 +97,8 @@ projects:
       
     assignments:
     - title: Python
-    link: "#"
-    tagline: "Pyplots,Scikit,ARIMA"
+      link: "#"
+      tagline: "Pyplots,Scikit,ARIMA"
 
       - title: SQL
         link:
@@ -111,6 +111,7 @@ projects:
       - title: DevOps
         link: "#"
         tagline: "Artifactory, Docker, GitHub, Maven"
+        
         
     
 
