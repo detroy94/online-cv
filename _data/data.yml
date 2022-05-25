@@ -44,9 +44,8 @@ career-profile:
     title: Career Profile
     summary: |
         Motivated IT engineer seeks new position in dynamic, growth-oriented company focused on cultivating exceptional customer experience
-        and a positive work environment. Experienced in handling networking concerns, implementing new software, installing new hardware, and addressing user concerns,
-        I bring attention to detail and a dedication to technical improvement to each job.
-        Passionate about innnovative health solutions with working experience in developing solutions from participation in hackathons.
+        and a positive work environment. WIth considerable IT experience as DevOps engineer with expertise in areas of Software Configuration Management, Version Control, DevOps/Build and Release management, Linux System Administration.
+        Experienced in branching, tagging and maintaining the version across the environments using SCM tools like GIT, Subversion (SVN) and TFS on Linux and windows platforms.
   
 education:
     - degree: BSc in Computer Science
@@ -100,9 +99,9 @@ projects:
         link: "#"
         tagline: "Pyplots,Scikit,ARIMA Machine Learning"
 
-      - title: SQL
+      - title: Databases
         link:
-        tagline: ""
+        tagline: "MySQL, MongoDb"
 
       - title: Git
         link: "#"
@@ -173,8 +172,12 @@ skills:
       - name: Kafka
         level: 80%
         
-       
+      - name: Interpersonal skills
+        level: 85%
         
+       
+      - name: Communication skills
+        level: 85%
         
        
       
