@@ -98,7 +98,7 @@ projects:
     assignments:
       - title: Python
         link: "#"
-        tagline: "Pyplots,Scikit,ARIMA"
+        tagline: "Pyplots,Scikit,ARIMA Machine Learning"
 
       - title: SQL
         link:
@@ -109,6 +109,19 @@ projects:
         tagline: "Git, Jenkins CI/CD pipeline delivery"
         
       - title: DevOps
+        link: "#"
+        tagline: "Artifactory, Docker, GitHub, Maven"
+        
+        
+      - title: Object and Procedure Oriented Programming
+        link: "#"
+        tagline: "Embedded C, C++"
+        
+      - title: Web development
+        link: "#"
+        tagline: "HTML,CSS,Javascript,Php,React,AJAX"
+        
+      - title: Hadoop
         link: "#"
         tagline: "Artifactory, Docker, GitHub, Maven"
         
